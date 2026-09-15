@@ -1,0 +1,92 @@
+[
+  {
+    "id": "elena_verna_plg_01",
+    "episode_title": "Elena Verna on B2B Product-Led Growth, Freemium vs Trial, and Growth Loops",
+    "guest": "Elena Verna",
+    "topic": "Product-Led Growth (PLG) & Growth Loops",
+    "source_url": "https://www.lennyspodcast.com/elena-verna-on-b2b-product-led-growth/",
+    "part": "01: Building B2B Growth Engines",
+    "content": "Product-Led Growth (PLG) is not just a feature or a self-serve checkout page; it is an end-to-end go-to-market strategy where the product itself drives user acquisition, retention, and expansion. In B2B, the biggest mistake companies make is treating sales and PLG as opposing forces. In reality, PLG creates the high-intent pipeline for Product-Led Sales (PLS). When users experience the core value of a product unassisted, they become internal champions within an organization. Growth loops—unlike traditional linear funnels—create compounding returns. For instance, an acquisition loop occurs when a user uses the product and naturally invites collaborators (e.g., Miro or Figma), generating new active users without paid acquisition spend. For PLG to succeed, you must optimize for time-to-value (TTV) and ensure activation happens within the very first session."
+  },
+  {
+    "id": "elena_verna_plg_02",
+    "episode_title": "Elena Verna on B2B Product-Led Growth, Freemium vs Trial, and Growth Loops",
+    "guest": "Elena Verna",
+    "topic": "Freemium vs Reverse Trial Strategy",
+    "source_url": "https://www.lennyspodcast.com/elena-verna-on-b2b-product-led-growth/",
+    "part": "02: Freemium vs Reverse Trial",
+    "content": "When deciding between Freemium and Free Trial, many product teams fall into the trap of choosing one arbitrarily. The Reverse Trial is often the sweet spot for modern B2B SaaS. In a Reverse Trial, new users start with full access to all Pro/Enterprise features for 14 days without requiring a credit card. At the end of 14 days, instead of locking them out completely, they smoothly degrade to a perpetual Free tier. This preserves user retention and continuous usage while giving users a taste of paid value that triggers expansion loops later when their team size or feature requirements grow."
+  },
+  {
+    "id": "brian_balfour_four_fits_01",
+    "episode_title": "Brian Balfour on The Four Fits Framework for Scaling Startups",
+    "guest": "Brian Balfour",
+    "topic": "The Four Fits Framework",
+    "source_url": "https://www.lennyspodcast.com/brian-balfour-four-fits-framework/",
+    "part": "01: Market-Product & Product-Channel Fit",
+    "content": "Most founders focus exclusively on Product-Market Fit, but product alone does not build a venture-scale company. You need Four Fits aligned simultaneously: Market-Product Fit, Product-Channel Fit, Channel-Model Fit, and Model-Market Fit. These fits are non-isolated and co-dependent. Product-Channel Fit dictates that products are built for channels, not the other way around. If your primary distribution channel is SEO, your product UX must naturally create indexable, public-facing content pages (like Pinterest or Glassdoor). If your product relies on Virality, product usage must intrinsically involve non-users."
+  },
+  {
+    "id": "brian_balfour_four_fits_02",
+    "episode_title": "Brian Balfour on The Four Fits Framework for Scaling Startups",
+    "guest": "Brian Balfour",
+    "topic": "Channel-Model & Model-Market Fit",
+    "source_url": "https://www.lennyspodcast.com/brian-balfour-four-fits-framework/",
+    "part": "02: Channel-Model & Model-Market Fit",
+    "content": "Channel-Model Fit defines the relationship between how you charge (ARPU - Average Revenue Per User) and how you acquire customers (CAC). High ARPU products ($100k+/year) support high-CAC channels like enterprise direct sales forces. Low ARPU products ($10–$100/year) can only sustain low-CAC channels like virality or organic SEO. If you are stuck in the 'danger zone'—charging $1,000/year with a $2,000 CAC—you have a model-channel mismatch that will kill growth regardless of how good your product is."
+  },
+  {
+    "id": "shreyas_doshi_lno_01",
+    "episode_title": "Shreyas Doshi on High-Leverage Product Management & The LNO Framework",
+    "guest": "Shreyas Doshi",
+    "topic": "The LNO Framework for PM Productivity",
+    "source_url": "https://www.lennyspodcast.com/shreyas-doshi-high-leverage-pm/",
+    "part": "01: LNO Framework (Leverage, Neutral, Overhead)",
+    "content": "Product Managers frequently burn out because they try to execute every single task with 100% perfection. High-performing PMs use the LNO Framework: categorizing tasks into Leverage (L), Neutral (N), and Overhead (O). Leverage tasks (like product vision, strategic docs, key customer interviews) have a 10x return on effort and demand 100% excellence. Neutral tasks (like weekly updates, routine specs) require standard competence (80% effort is fine). Overhead tasks (like compliance forms, scheduling) should be completed with minimum viable effort (bad is fine, just get it done quickly). If you spend equal energy on overhead tasks as strategic positioning, you are failing as a product leader."
+  },
+  {
+    "id": "shreyas_doshi_lno_02",
+    "episode_title": "Shreyas Doshi on High-Leverage Product Management & The LNO Framework",
+    "guest": "Shreyas Doshi",
+    "topic": "Pre-Mortems & Risk Mitigation in Product Launches",
+    "source_url": "https://www.lennyspodcast.com/shreyas-doshi-high-leverage-pm/",
+    "part": "02: Conducting Effective Pre-Mortems",
+    "content": "A Pre-Mortem is an exercise conducted before launching a major product feature. Gather your cross-functional team (Engineering, Design, Marketing, Sales, Support) and ask them: 'Imagine it is 6 months from now and our product launch has been a catastrophic failure. What caused it?' This psychological trick removes the positivity bias and enables team members to voice hidden concerns about edge cases, technical debt, or customer messaging without feeling like naysayers."
+  },
+  {
+    "id": "casey_winters_retention_01",
+    "episode_title": "Casey Winters on Retention, Activation, and Growth Engines",
+    "guest": "Casey Winters",
+    "topic": "Retention Curves & Activation Metrics",
+    "source_url": "https://www.lennyspodcast.com/casey-winters-retention-and-growth/",
+    "part": "01: Retention as the Bedrock of Growth",
+    "content": "Retention is the foundation of all growth. If your retention curve slopes down to zero, acquisition is merely pouring water into a leaky bucket. A healthy product exhibits a flattened retention curve (asymptotic retention), where a fixed percentage of users continue returning month after month infinitely. To fix poor retention, do not focus on re-engagement emails; focus on Activation—the habit loop established during the user's first 3 days. Define your setup moment, AHA moment, and Habit moment clearly."
+  },
+  {
+    "id": "rahul_vohra_pmf_01",
+    "episode_title": "Rahul Vohra on Superhuman's Product-Market Fit Engine",
+    "guest": "Rahul Vohra",
+    "topic": "The PMF Engine & PMF Score",
+    "source_url": "https://www.lennyspodcast.com/rahul-vohra-superhuman-pmf-engine/",
+    "part": "01: Measuring Product-Market Fit",
+    "content": "Product-Market Fit is often described as a binary feel-good metric, but it can be measured quantitatively using the Sean Ellis survey question: 'How would you feel if you could no longer use the product?' Options: Very disappointed, Somewhat disappointed, Not disappointed. If 40% or more of your users answer 'Very Disappointed', you have achieved Product-Market Fit. Superhuman built an engine around this: identify your High-Expectation Customers (HXC), analyze why the 'Very Disappointed' segment loves your product, double down on those features, and convert the 'Somewhat Disappointed' segment by addressing their main blockades."
+  },
+  {
+    "id": "gibson_biddle_dhm_01",
+    "episode_title": "Gibson Biddle on Netflix Product Strategy & DHM Model",
+    "guest": "Gibson Biddle",
+    "topic": "DHM Framework for Product Strategy",
+    "source_url": "https://www.lennyspodcast.com/gibson-biddle-netflix-product-strategy/",
+    "part": "01: DHM Model (Delight, Hard to Copy, Margin Enhancing)",
+    "content": "Product strategy answers one core question: How will your product delight customers, in hard-to-copy, margin-enhancing ways? (The DHM Model). Delighting customers is easy if you spend infinite money, but it must be margin-enhancing (building a profitable business model). The hardest part is making it 'Hard to Copy'. Gibson identifies 8 classic hard-to-copy brand advantages: Brand, Network Effects, Economies of Scale, Counter-positioning, Unique Technology, Switching Costs, Process Power, and Captured Assets. At Netflix, personalized recommendations provided both delight and a massive hard-to-copy advantage."
+  },
+  {
+    "id": "april_dunford_positioning_01",
+    "episode_title": "April Dunford on Product Positioning & Obviously Awesome Framework",
+    "guest": "April Dunford",
+    "topic": "Product Positioning & Competitive Alternatives",
+    "source_url": "https://www.lennyspodcast.com/april-dunford-product-positioning/",
+    "part": "01: 5 Components of Positioning",
+    "content": "Positioning defines how your product is the best in the world at delivering something that a specific group of customers cares deeply about. Most product teams position their product starting from features. Instead, start from Competitive Alternatives: what would your customers do if your product did not exist? Often the competitive alternative is 'Excel' or 'doing nothing manually'. Once you know the competitive alternative, list your unique capabilities, map them to customer value, define your target customer segment, and place your product in a market category that makes your value obvious."
+  }
+]

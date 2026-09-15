@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-09-12T20:30:00Z",
+    "event": "request_received",
+    "session_id": "sess-demo-001",
+    "query": "Explain Brian Balfour's Four Fits Framework",
+    "provider": "ollama",
+    "skill": "auto"
+  },
+  {
+    "timestamp": "2026-09-12T20:30:01Z",
+    "event": "rag_retrieval_success",
+    "matched_chunks": 2,
+    "top_guest": "Brian Balfour",
+    "citations": [
+      {
+        "guest": "Brian Balfour",
+        "episode_title": "Brian Balfour on The Four Fits Framework for Scaling Startups",
+        "topic": "The Four Fits Framework"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-12T20:30:04Z",
+    "event": "stream_completion_done",
+    "tokens_generated": 342,
+    "artifact_created": false
+  }
+]
