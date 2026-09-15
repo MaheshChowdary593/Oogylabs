@@ -109,29 +109,3 @@ OPENAI_API_KEY=sk-proj-...
 ```
 
 ---
-
-## 🧪 Automated Testing
-
-Run backend automated integration tests:
-
-```bash
-cd backend
-python -m pytest tests/
-```
-
-### Included Tests:
-- `test_rag.py`: Verifies transcript seeding, hybrid keyword search, and citation formatting.
-- `test_llm_factory.py`: Verifies model switching and fallback handling.
-- `test_skills.py`: Asserts Ship 30 for 30 essay generation rules and artifact parsing.
-- `test_api.py`: Tests FastAPI endpoints (`/health`, `/models`, `/sessions`, `/chat/stream`).
-
----
-
-## 🎬 Demo Video Guide
-
-A 2-3 minute YouTube walk-through demonstrating:
-1. Product overview & Grounded RAG query (*"What are Elena Verna's key growth loops for B2B PLG?"*).
-2. Live local evaluation using **Ollama**.
-3. **Ship 30 for 30 Essay Skill** generation (~1,250 words).
-4. Side-by-side **Artifact Viewer** rendering an HTML growth card inside the sandboxed iframe.
-5. Discussion of technical trade-offs (RAG grounding precision vs latency, sandboxed security isolation).
